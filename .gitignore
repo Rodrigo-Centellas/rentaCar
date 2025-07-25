@@ -16,6 +16,14 @@
 /public/build
 /public/hot
 /public/storage
+
+# Vite/npm additional files
+.vite/
+dist/
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 /storage/*.key
 /storage/pail
 /vendor
